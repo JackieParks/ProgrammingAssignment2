@@ -1,6 +1,8 @@
 ## Using these functions together will compute the inverse of a square, 
 ## invertible matrix or 
 ## retrieve it from cache if it has already been cached.
+## Note: there are comments at the bottom of this file with code 
+## that can be used to test these finctions
 
 ## The first function builds a set of functions and 
 ##returns the functions within a list to the parent environment.
